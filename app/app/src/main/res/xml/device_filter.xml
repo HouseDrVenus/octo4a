@@ -11,11 +11,12 @@
     <usb-device product-id="60016" vendor-id="4292"/>
     <usb-device product-id="60017" vendor-id="4292"/>
     <usb-device product-id="60032" vendor-id="4292"/>
-
     <!-- Prolific -->
     <usb-device product-id="8963" vendor-id="1659"/>
     <!-- CH341 -->
     <usb-device product-id="29987" vendor-id="6790"/>
+     <!-- Geeetech GT2560 V4.0 - CH340 drivers - Name Qinheng-->
+    <usb-device product-id="1A86" vendor-id="7523"/>
     <!-- Prusa - CDC drivers -->
     <usb-device vendor-id="11417"/>
     <!-- Arduino - CDC drivers -->
